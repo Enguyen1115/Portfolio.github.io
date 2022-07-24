@@ -19,6 +19,10 @@ export default function Contact() {
           <Title>
             <h2>Contact Me</h2>
             <div className="underline"></div>
+            <div>
+              <p>Email: Ethannguyen1115@gmail.com</p><br/>
+              <p>Phone: (587)566-5252</p>
+            </div>
           </Title>
         </Container>
         <Container>

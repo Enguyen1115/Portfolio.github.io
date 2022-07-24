@@ -34,7 +34,7 @@ export const Blog = <FaLink />;
 */
 export const moreInfo =
   // "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, Bootstrap, Redux, and the GitHub REST API.";
-  "I have a curiosity in learning how video games and technology are made. After 2 years of education and being introduced to different fields as software developer. I've realize that I have interest in languages such as React, NodeJS, HTML, CSS, and JavaScript."
+  "Hello, my name is Ethan Nguyen and I am a graduate from Southern Alberta Institute of Technology.Being fascinated by technology and video games has led me to learn how they are created. After 2 years of college classes involving software development, I've developed interest in languages such as React, NodeJS, HTML, CSS, and JavaScript"
 /* Skills
  ************************************************************** 
   Add or remove skills in the SAME format below, there must be one icon imported above per skill below.

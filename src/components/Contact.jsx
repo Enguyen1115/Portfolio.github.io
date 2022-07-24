@@ -9,6 +9,7 @@ import ContactForm from "./ContactForm";
 const StyledSection = styled.section`
   min-height: 89vh;
   padding-top: var(--nav-height);
+  text-align: center;
 `;
 
 export default function Contact() {
@@ -22,9 +23,8 @@ export default function Contact() {
           </Title>
         </Container>
         <Container>
-          <div>
+          <div className="info">
             <p>Email: Ethannguyen1115@gmail.com</p>
-            <br />
             <p>Phone: (587)566-5252</p>
           </div>
           {/* <ContactForm /> */}
